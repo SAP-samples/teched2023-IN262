@@ -17,7 +17,7 @@ Have a kind of understanding on how to use the SAP Integration Suite and underst
 
 ## Exercises
 
-Please use this [pdf](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html) to do the exercises.
+Please use this [pdf](https://github.com/SAP-samples/teched2023-IN262/blob/main/IN262%20-%20Unlocking%20B2B%20Excellence%20Efficiently%20Onboard%20and%20Manage%20Trading%20Partners.pdf) to do the exercises.
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
