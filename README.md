@@ -1,39 +1,23 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-IN262)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-IN262)
 
-# Session ID - Session Title
+# IN262 - Unlocking B2B Excellence: Efficiently Onboard and Manage Trading Partners
+
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2023 session called IN262 - Unlocking B2B Excellence: Efficiently Onboard and Manage Trading Partners.  
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to use the SAP Integration Suite to onboard new Trading Partners and to get know the features of the Integration Advisor and the Trading Partner Management
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Have a kind of understanding on how to use the SAP Integration Suite and understand EDI structures.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Please use this [pdf](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html) to do the exercises.
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
